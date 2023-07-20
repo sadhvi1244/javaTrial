@@ -5,7 +5,7 @@ public class LOOPs {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        double x1 = 1, x2 = 2, x3 = 3, y1 = 1, y2 = 2, y3 = 4;
+        double x1 = 5, x2 = 3, x3 = 6, y1 = 2, y2 = 1, y3 = 4;
         double m1 = (y2-y1)/(x2-x1);
         double m2 = (y3-y2)/(x3-x2);
 
